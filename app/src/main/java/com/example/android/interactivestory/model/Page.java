@@ -29,6 +29,11 @@ public class Page {
         mchoice2 = null;
         mIsFinal = true;
     }
+
+    public boolean isFinal(){
+
+        return mIsFinal;
+    }
     public void setImageId(int mImageId) {
         this.mImageId = mImageId;
     }

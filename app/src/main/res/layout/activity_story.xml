@@ -28,9 +28,7 @@
         android:paddingLeft="30dp"
         android:paddingRight="30dp"
         android:paddingTop="14dp"
-        android:paddingBottom="14dp"
-        android:letterSpacing="1.2"
-        />
+        android:paddingBottom="14dp" />
 
     <Button
         android:layout_width="match_parent"
@@ -38,6 +36,7 @@
         android:text="Stop And Investigate"
         android:id="@+id/choicebutton2"
         android:layout_alignParentBottom="true"
+
 
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true"
