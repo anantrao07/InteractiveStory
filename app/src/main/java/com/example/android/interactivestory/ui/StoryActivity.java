@@ -72,7 +72,7 @@ public class StoryActivity extends Activity {
                 }
             });
 
-            
+
 
         }
         else {
