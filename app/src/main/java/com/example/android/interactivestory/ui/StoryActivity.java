@@ -72,6 +72,8 @@ public class StoryActivity extends Activity {
                 }
             });
 
+            
+
         }
         else {
             mChoice1.setText(mpage.getchoice1().getText());
